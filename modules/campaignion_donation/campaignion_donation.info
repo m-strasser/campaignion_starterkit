@@ -67,3 +67,4 @@ features[variable][] = node_preview_donation
 features[variable][] = node_submitted_donation
 features[variable][] = xmlsitemap_settings_node_donation
 features[views_view][] = donations
+required = 1

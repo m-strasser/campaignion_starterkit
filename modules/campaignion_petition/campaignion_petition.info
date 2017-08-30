@@ -63,3 +63,4 @@ features[variable][] = node_submitted_petition
 features[variable][] = show_diff_inline_petition
 features[variable][] = show_preview_changes_petition
 features[variable][] = xmlsitemap_settings_node_petition
+required = 1

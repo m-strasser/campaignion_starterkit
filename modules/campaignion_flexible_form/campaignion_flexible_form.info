@@ -68,3 +68,4 @@ features[variable][] = node_preview_webform
 features[variable][] = node_submitted_webform
 features[variable][] = weight_enabled_webform
 features[variable][] = xmlsitemap_settings_node_webform
+required = 1
