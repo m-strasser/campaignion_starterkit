@@ -8,6 +8,7 @@ dependencies[] = campaignion_supporter
 dependencies[] = campaignion_wizard
 dependencies[] = ctools
 dependencies[] = features
+dependencies[] = field_countdown2
 dependencies[] = field_group
 dependencies[] = field_reference_or_redirect
 dependencies[] = file
