@@ -40,6 +40,7 @@ features[field_group][] = group_email_protest|node|email_protest|form
 features[field_group][] = group_recent_supporters|node|email_protest|form
 features[field_instance][] = node-email_protest-action_template
 features[field_instance][] = node-email_protest-body
+features[field_instance][] = node-email_protest-field_countdown
 features[field_instance][] = node-email_protest-field_main_image
 features[field_instance][] = node-email_protest-field_protest_target
 features[field_instance][] = node-email_protest-field_protest_target_options
